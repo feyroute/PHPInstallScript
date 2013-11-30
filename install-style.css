@@ -1,0 +1,13 @@
+body{
+	background-color: #f1f1f1; 
+}
+#alert-area{
+	width: 960px;
+	margin: 0 auto;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	background-color: #fff;
+}
+.error-line{
+	color: red;
+}
